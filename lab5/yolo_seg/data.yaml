@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['dent', 'rust', 'scratch']
+
+roboflow:
+  workspace: workspace-7fkei
+  project: segmentation-nc1py
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/workspace-7fkei/segmentation-nc1py/1
