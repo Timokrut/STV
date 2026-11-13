@@ -1,0 +1,13 @@
+{
+  "run": "v05_b",
+  "factor": "hsv_v",
+  "value": 0.3,
+  "source": "/home/timokrut/Projects/STV/lab6/yolov8n.pt",
+  "imgsz": 640,
+  "epochs": 40,
+  "train_s": 463.29,
+  "map50": 0.03751306468972298,
+  "map50_95": 0.013157923531309155,
+  "weights_mb": 6.249,
+  "weights": "/home/timokrut/Projects/STV/lab6/runs/lr6/v05_b/weights/best.pt"
+}
