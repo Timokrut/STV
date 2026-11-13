@@ -5,7 +5,7 @@ import math
 
 import yaml
 
-root = Path("dataset")
+root = Path("dataset_v2")
 output = Path("results")
 output.mkdir(exist_ok=True)
 

@@ -1,0 +1,8 @@
+/home/timokrut/Projects/STV/lab6/dataset_v2/valid/images/Car-damages-1065_png.rf.e85c6c9b3520f24d36701c765107e4f4.jpg
+/home/timokrut/Projects/STV/lab6/dataset_v2/valid/images/Car-damages-112_png.rf.e3ac5b16f1dfc757b71ac065b3a4e178.jpg
+/home/timokrut/Projects/STV/lab6/dataset_v2/valid/images/Car-damages-338_png.rf.5cb77a8921289ef74da67c6da9a651be.jpg
+/home/timokrut/Projects/STV/lab6/dataset_v2/valid/images/Car-damages-721_png.rf.167a9c48fff8c967b8eb1fc3dc92aecd.jpg
+/home/timokrut/Projects/STV/lab6/dataset_v2/valid/images/Car-damages-734_jpg.rf.821cd62257412427662df7ac2b3fd9fc.jpg
+/home/timokrut/Projects/STV/lab6/dataset_v2/valid/images/metal_009_png.rf.227074defe8165e7419734f5a2fe4d10.jpg
+/home/timokrut/Projects/STV/lab6/dataset_v2/valid/images/metal_030_png.rf.5385c705c63e7ea1c0a717305ad841bd.jpg
+/home/timokrut/Projects/STV/lab6/dataset_v2/valid/images/metal_035_png.rf.c459933052813de63f59e20c9beb8994.jpg

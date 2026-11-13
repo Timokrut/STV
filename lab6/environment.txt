@@ -1,7 +1,7 @@
 Python: 3.12.16
 System: Linux-7.2.15-1-omarchy-x86_64-with-glibc2.44
 CPU: AMD Ryzen 5 5600X 6-Core Processor
-RAM: 31.25 ГиБ
+RAM: 31.25 Gb
 Device: cuda:0
 CUDAv: 12.6
 GPU: NVIDIA GeForce GTX 1660

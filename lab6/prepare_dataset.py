@@ -3,7 +3,7 @@ import shutil
 
 import yaml
 
-root = Path("dataset").resolve()
+root = Path("dataset_v2").resolve()
 path = root / "data.yaml"
 
 cfg = yaml.safe_load(path.read_text(encoding="utf-8"))

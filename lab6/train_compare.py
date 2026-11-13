@@ -19,7 +19,7 @@ def main():
     print(f"Обучение на: {torch.cuda.get_device_name(device)}")
 
     root = Path(__file__).resolve().parent
-    data = root / "dataset" / "data.yaml"
+    data = root / "dataset_v2" / "data.yaml"
     project = root / "runs" / "lr6" 
     output = root / "results"
 

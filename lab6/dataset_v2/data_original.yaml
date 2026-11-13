@@ -1,0 +1,8 @@
+path: /home/timokrut/Projects/STV/lab6/dataset_v2
+train: train/images
+val: valid/images
+test: test/images
+names:
+- dent
+- rust
+- scratch
