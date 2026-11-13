@@ -1,0 +1,14 @@
+Python: 3.12.16
+System: Linux-7.2.15-1-omarchy-x86_64-with-glibc2.44
+CPU: AMD Ryzen 5 5600X 6-Core Processor
+RAM: 31.25 ГиБ
+Device: cuda:0
+CUDAv: 12.6
+GPU: NVIDIA GeForce GTX 1660
+VRAM: 5.63 ГиБ
+ultralytics: 8.3.253
+torch: 2.7.1+cu126
+torchvision: 0.22.1+cu126
+opencv-python: 5.0.0.93
+PyYAML: 6.0.3
+numpy: 2.5.4

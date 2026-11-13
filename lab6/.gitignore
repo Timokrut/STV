@@ -1,0 +1,8 @@
+venv/
+venv-python315-backup/
+__pycache__/
+dataset/
+runs/
+results/
+*.pt
+*.log
